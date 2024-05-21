@@ -1,0 +1,2 @@
+{"account_number": "7365863718", "password": "6906", "account_type": "Business", "balance": 0}
+{"account_number": "9025710411", "password": "9928", "account_type": "Personal", "balance": 0}
