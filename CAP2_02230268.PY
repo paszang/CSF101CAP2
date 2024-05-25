@@ -1,12 +1,15 @@
+
+#reference:
 #https://www.youtube.com/watch?v=xTh-ln2XhgU&t=459s
-#
-#
-#
-#
+#https://www.youtube.com/results?search_query=banking+sysgtem+python+code
+#https://www.youtube.com/watch?v=julcNz6rWVc
+#https://www.youtube.com/watch?v=2TrDIbwasw8&t=15s
+#https://www.youtube.com/watch?v=BRssQPHZMrc
 
 
-
-
+#name: Passang
+#department: Mechanical
+#student number: 02230268
 
 import os
 import random
